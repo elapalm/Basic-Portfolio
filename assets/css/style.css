@@ -1,0 +1,58 @@
+body {
+    background-image: url("../images/green_cup.png")
+}
+
+header {
+    background-color: #ffffff;
+    margin-top: 0;
+    padding: 20px;
+    border-bottom: 2px solid #cccccc;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 230px;
+    text-align: center;
+    margin-left: 170px;
+    margin-bottom: -20px;
+    padding: 20px;
+}
+
+a {
+    color: #777777;
+    background-color: #ffffff;
+    text-decoration: none;
+    float: right;
+    margin-right: 10px;
+    font-family: "Arial", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#contentArea {
+    width: 960px;
+    background-color: #ffffff;
+    margin-left: 190px;
+}
+
+p {
+
+}
+
+h2 {
+    color: #4aaaa5;
+    padding: 20px;
+    font-size: 30px;
+}
+
+img {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -40px;
+
+}
+
+footer {
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    padding: 20px;
+}
