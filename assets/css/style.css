@@ -53,6 +53,9 @@ h2 {
 p {
     text-align: auto;
     margin-top: -40px;
+    width: 730px;
+    float: left;
+    margin-left: 10px;
 }
 img {
     float: left;
@@ -69,4 +72,5 @@ img {
     width: 100%;
     margin-left: -10px;
     clear: both;
+    margin-top: 20px;
 }
