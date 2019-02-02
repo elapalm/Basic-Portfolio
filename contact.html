@@ -17,7 +17,7 @@
     </head>
 
     <body>
-        <section id="contentArea"></section>
+        <section id="contentArea">
 
             <h2>Contact</h2>
 
@@ -26,16 +26,15 @@
         <div class="container">
             <form action="action_page.php">
           
-              <label for="name">Name</label>
+              <label id="name" for="name">Name</label>
               <input type="text" id="name" name="name" placeholder="John Smith">
           
-              <label for="email">Email</label>
+              <label id="email" for="email">Email</label>
               <input type="text" id="email" name="email" placeholder="example@gmail.com">
           
-              <label for="comment">Comment</label>
-              <textarea id="comment" name="comment" placeholder="Comment" style="height:200px"></textarea>
+              <label id="message" for="message">Message</label>
+              <textarea id="message" name="message"></textarea>
           
-              <input type="submit" value="Submit">
           
             </form>
           </div>
