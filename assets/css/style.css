@@ -77,7 +77,7 @@ hr {
  textarea {
      color: #777777;
      font-family: Arial, Helvetica, sans-serif;
-     height: 150px;
+     height: 200px;
      width: 940px;
      margin-left: 10px;
      float: left;
@@ -93,10 +93,15 @@ img {
     margin-left: 15px;
     float: left;
 }
-#cliff {
-    margin-top: 30px;
-    margin-left: 20px;
+
+#photoLabel {
+    background-color: #4aaaa5;
+    color: #777777;
+    width: 200px;
+    margin-left: -195px;
+    position: fixed;
 }
+
 
 .footer {
     background-color: #666666;
